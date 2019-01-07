@@ -11,14 +11,12 @@ GG:456
 Test:55555
 go func() {
     init()
-    test()
     return
 }
-==================
-go func() {
-    init()
-    test()
-    return
+
+go test() {
+
+
 }
 ==================
 ==================
