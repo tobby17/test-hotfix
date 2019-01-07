@@ -10,11 +10,11 @@ GG:456
 =============
 Test:55555
 go func() {
-    init()
+    init(
     return
 }
 
-go test() {
+go tet() {
 
 
 }
